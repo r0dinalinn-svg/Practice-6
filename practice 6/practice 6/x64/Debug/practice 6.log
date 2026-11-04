@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ThinkPad\source\repos\practice 6\practice 6\main.cpp(31,21): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+C:\Users\ThinkPad\source\repos\practice 6\practice 6\main.cpp(31,21): warning C4244:         with
+C:\Users\ThinkPad\source\repos\practice 6\practice 6\main.cpp(31,21): warning C4244:         [
+C:\Users\ThinkPad\source\repos\practice 6\practice 6\main.cpp(31,21): warning C4244:             _Rep=__int64
+C:\Users\ThinkPad\source\repos\practice 6\practice 6\main.cpp(31,21): warning C4244:         ]
+  practice 6.vcxproj -> C:\Users\ThinkPad\source\repos\practice 6\x64\Debug\practice 6.exe
